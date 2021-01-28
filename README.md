@@ -1,9 +1,9 @@
 # baber-m
  Layout codado por mim com:
  
- *HTML5
- *CSS3
- *BootStrap
+ * HTML5
+ * CSS3
+ * BootStrap
 
 Demo
 https://josoelvieira.github.io/baber-m/
